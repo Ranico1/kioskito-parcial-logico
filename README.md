@@ -1,0 +1,1 @@
+# kioskito-parcial-logico
